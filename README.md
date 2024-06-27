@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fasika Gebrehana</h1>
 <h3 align="center">A passionate website developer from Ethiopia.</h3>
-<img align="right" width= "300" height="100" src = "https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif"/>
+<img align="right" width= "300" height="200" src = "https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fasikagebrehana&label=Profile%20views&color=0e75b6&style=flat" alt="fasikagebrehana" /> </p>
