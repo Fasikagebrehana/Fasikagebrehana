@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fasika Gebrehana</h1>
 <h3 align="center">A passionate website developer from Ethiopia.</h3>
 
-<p align="center">
-  <img width="300" height="300" src="https://cdn.iconscout.com/lottie/premium/thumb/programmer-11733908-9559405.json" alt="programmer animation" style="background-color: black;"/>
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fasikagebrehana&label=Profile%20views&color=0e75b6&style=flat" alt="fasikagebrehana" /> </p>
-
 - 🔭 I’m currently working on **Competitive Programming**
 
 - 🌱 I’m currently learning **.Net, React Native**
