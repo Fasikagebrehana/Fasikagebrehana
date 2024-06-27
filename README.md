@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **.Net, React Native**
 
 - 📫 How to reach me **fasikagebrehana1@gmail.com**
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fasikagebrehana&label=Profile%20views&color=0e75b6&style=flat" alt="fasikagebrehana" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/fasika-gebrehana-35a693215/" target="blank">
