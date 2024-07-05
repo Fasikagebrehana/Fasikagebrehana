@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fasika Gebrehana</h1>
 <h3 align="center">A passionate website developer from Ethiopia.</h3>
 
-- 🔭 I’m currently working on **Competitive Programming**
+- 🔭 I’m currently working on **Data Structures and Algorithm**
 
 - 🌱 I’m currently learning **.Net, React Native**
 
