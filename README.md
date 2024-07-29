@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Structures and Algorithm**
 
-- 🌱 I’m currently learning **.Net, React Native**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **fasikagebrehana1@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fasikagebrehana&label=Profile%20views&color=0e75b6&style=flat" alt="fasikagebrehana" /> </p>
