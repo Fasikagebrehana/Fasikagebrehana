@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fasika Gebrehana</h1>
-<h3 align="center">A passionate website developer from Ethiopia.</h3>
+<h3 align="center">A passionate Software Engineer from Ethiopia.</h3>
 
-- 🔭 I’m currently working on **Data Structures and Algorithm**
+- 🔭 I’m currently working on **Mobile and Website Development**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Backend Development and AI**
 
 - 📫 How to reach me **fasikagebrehana1@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fasikagebrehana&label=Profile%20views&color=0e75b6&style=flat" alt="fasikagebrehana" /> </p>
